@@ -8,8 +8,6 @@ Lab2 Objectives:
 Introduction:
 A module is a file with a . py extension that contains all the functions, classes and definitions pertaining to that module. A package is a collection of modules all saved inside a package folder.
 
-## The file name is the module name with the suffix .py appended. Within a module, the module’s name (as a string) is available as the value of the global variable **name**.
-
 Procedures(Steps/Code):
 
 1.  class Brand(models.Model):
@@ -58,7 +56,9 @@ admin.site.register(Product)
 ---
 
 Outputs:
+https://github.com/ishwors/ecommerce_ishwor
 
 ---
 
 Conclusion:
+I learned abou the module a nd it's benefits

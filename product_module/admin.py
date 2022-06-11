@@ -1,7 +1,5 @@
 from django.contrib import admin
-from .models import Brand
-from .models import Category
-from .models import Product
+from .models import Brand, Category, Product, CartItem
 
 
 # Register your models here.
@@ -36,6 +34,9 @@ class ProductAdmin(admin.ModelAdmin):
         model = Product
 
 
+
+
 admin.site.register(Brand, BrandAdmin)
 admin.site.register(Category, CategoryAdmin)
 admin.site.register(Product, ProductAdmin)
+admin.site.register(CartItem)
