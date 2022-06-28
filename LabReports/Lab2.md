@@ -1,14 +1,15 @@
-Lab2 Objectives:
+## Lab2 Objectives:
 
 - To enhance the product_module module to comply with the required ER Diagram.
 - To enhance the brand and category modules to implement on product module.
 
 ---
 
-Introduction:
+## Introduction:
+
 A module is a file with a . py extension that contains all the functions, classes and definitions pertaining to that module. A package is a collection of modules all saved inside a package folder.
 
-Procedures(Steps/Code):
+## Procedures(Steps/Code):
 
 1.  class Brand(models.Model):
     name = models.CharField(max_length=200)
@@ -55,10 +56,12 @@ admin.site.register(Product)
 
 ---
 
-Outputs:
+## Outputs:
+
 https://github.com/ishwors/ecommerce_ishwor
 
 ---
 
-Conclusion:
+## Conclusion:
+
 I learned abou the module a nd it's benefits
