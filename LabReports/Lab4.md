@@ -108,4 +108,4 @@ https://github.com/ishwors/ecommerce_ishwor
 
 ## Conclusion
 
-In this lab session, we learned how to add template in our project that will used over multiples pages for simplicity. We added necessary configurations to make the template work by connecting template with view and model.
+In this lab4, I learned how to use html tamplates and connect files with models and views files.
