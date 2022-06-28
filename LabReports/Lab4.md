@@ -1,8 +1,8 @@
-## Objectives
+## Lab 4 - Objectives
 
 - To set up basic template to display products, categories, and brands
 - To configure proper settings to connect the model to the view, and view to the template
-- To add searching capability in the user page for products, categories, and brands
+- To perform searching operation in the user page for products, categories, and brands
 
 ---
 
