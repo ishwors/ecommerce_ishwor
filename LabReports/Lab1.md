@@ -14,11 +14,11 @@ The very first lab of electronic commerce was focused of setup and integration o
 
 ## Procedures(Steps/Code):
 
-1.  django-admin startproject ecommerce_lab1
+1.  django-admin startproject ecommerce1
     or
-    python -m django-admin startproject ecommerce_lab1
+    python -m django-admin startproject ecommerce1
 
-2.  cd ecommerce_lab1
+2.  cd ecommerce1
 
 3.  Initialize database:
     python manage.py migrate
